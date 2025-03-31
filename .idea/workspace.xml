@@ -4,16 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5685d901-96af-47fd-8862-cad3a789b792" name="Changes" comment="Functions were added.">
-      <change afterPath="$PROJECT_DIR$/data/text_example.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/text_example.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/text_output.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/text_output.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="5685d901-96af-47fd-8862-cad3a789b792" name="Changes" comment="Functions were realized.">
+      <change afterPath="$PROJECT_DIR$/tests/data_test/empty_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/data_test/empty_file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/data_test/test_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/data_test/test_file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/data_test/test_input.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/io/input.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/io/input.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/io/output.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/io/output.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,21 +27,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "elizaherasymenko"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;elizaherasymenko&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/elizaherasymenko/project_template.git",
-    "accountId": "ec7f0976-f92e-453b-8628-4856871f901e"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/elizaherasymenko/project_template.git&quot;,
+    &quot;accountId&quot;: &quot;ec7f0976-f92e-453b-8628-4856871f901e&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2v5ckIYKRuHPwykC78m1WZHC4F8" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -53,6 +50,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests in test_input.py.executor": "Run",
     "Python.input.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -60,6 +58,11 @@
     "git-widget-placeholder": "main"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tests/data_test" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -108,7 +111,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743442160200</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Functions were realized.">
+      <option name="closed" value="true" />
+      <created>1743444794957</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1743444794958</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -127,6 +138,7 @@
     <MESSAGE value="Project structure was added." />
     <MESSAGE value="Libraries were installed." />
     <MESSAGE value="Functions were added." />
-    <option name="LAST_COMMIT_MESSAGE" value="Functions were added." />
+    <MESSAGE value="Functions were realized." />
+    <option name="LAST_COMMIT_MESSAGE" value="Functions were realized." />
   </component>
 </project>
